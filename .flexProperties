@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexProperties enableServiceManager="false" flexServerFeatures="6" flexServerType="2" serverContextRoot="/dataservices-samples" serverRoot="C:/LiveCycle Data Services for Java EE 4.6.1/tomcat/webapps/dataservices-samples" serverRootURL="http://localhost:8400/dataservices-samples/" toolCompile="true" useServerFlexSDK="false" version="2"/>
